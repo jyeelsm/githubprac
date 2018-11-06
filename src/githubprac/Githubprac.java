@@ -17,6 +17,7 @@ public class Githubprac {
     public static void main(String[] args) {
         System.out.println("test ex");
         System.out.println("add a second line");
+        System.out.println("add a third line");
     }
     
 }
